@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render expense item 1`] = `
+<div>
+  <h4 />
+  <p />
+  <p>
+    4500
+  </p>
+  <p>
+    345600000
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    Edit
+  </button>
+</div>
+`;
